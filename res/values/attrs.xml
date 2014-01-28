@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PlayArea">
+        <attr name="areaSize" format="integer" />
+        <attr name="mines" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="PlayButton">
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+</resources>

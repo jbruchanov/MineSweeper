@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="game_area_size">8</integer>
+    <integer name="game_mines">10</integer>
+</resources>

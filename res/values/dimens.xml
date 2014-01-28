@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gap_hairline">1dp</dimen>
+    <dimen name="gap_normal">10dp</dimen>
+    <dimen name="play_button_stroke">1dp</dimen>
+    <dimen name="play_button_text_size">28sp</dimen>
+    <dimen name="button_min_height">48dp</dimen>
+</resources>

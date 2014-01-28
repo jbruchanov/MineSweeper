@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="play_button_default">#BFBFBF</color>
+    <color name="play_button_pressed">#EFEFEF</color>
+    <color name="play_button_disabled">#FFF</color>
+    <color name="play_button_stroke">#5A5A5A</color>
+    <color name="play_button_text">@android:color/black</color>
+
+    <color name="adj_0">#ff07a600</color>
+    <color name="adj_1">#ffff8a00</color>
+    <color name="adj_2">#ffff00d6</color>
+    <color name="adj_3">#FF0000</color>
+</resources>

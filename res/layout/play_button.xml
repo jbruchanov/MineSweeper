@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.scurab.minesweeper.PlayButton
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:minHeight="@dimen/button_min_height"
+        android:scaleType="centerInside"
+        app:textSize="@dimen/play_button_text_size"
+        app:textColor="@color/play_button_text"
+        android:background="@drawable/playbutton"
+        android:layout_margin="@dimen/gap_hairline"/>

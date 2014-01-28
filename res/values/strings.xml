@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="new_game">New Game</string>
+    <string name="cheat">Cheat</string>
+
+    <string name="finish_success">Tadaaaa\nGood Job :)</string>
+    <string name="finish_unsuccess">Tududum duum\nYou failed! :(</string>
+    <string name="a11y_button_open">Row:%1$s, column:%2$s,</string>
+    <string name="a11y_button_closed">Row:%1$s, column:%2$s, Adjacents:%3$s,</string>
+    <string name="a11y_button_mine">Row:%1$s, column:%2$s, Mine,</string>
+    <string name="a11y_button_flagged">Row:%1$s, column:%2$s, flagged,</string>
+    <string name="a11y_finish_game">Finish game</string>
+</resources>
